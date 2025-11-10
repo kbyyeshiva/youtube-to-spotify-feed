@@ -1,4 +1,3 @@
-// index.js
 export default async function handler(req, res) {
   const url = "https://justpodcaster.com/rss/kerem-byavneh-parsha-podcast"; // your JustPodcaster RSS feed
 
